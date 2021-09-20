@@ -1,0 +1,14 @@
+@import "./components/base/reset.scss";
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+
+body {
+  background-color: rgb(127, 40, 240);
+  margin: 0;
+  
+}
+
+
